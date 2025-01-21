@@ -1,24 +1,15 @@
-# Hello City
+# Hello WWorld
 
 ## Objective
 
-Write a Python script that:
+Getting familiar with Codespace and begin your Python Journey!
 
-1. Asks the user for their **name** and **favorite city**.
-2. Greets the user with: `Hello, <name>!`
-3. Outputs: `Hope you visit <city> soon!`
+## TO DO
 
----
+Click on hello.py
+Follow your instructor's lead!
 
-## Example
 
-What is your name? Alice 
-
-What is your favorite city? Paris 
-
-Hello, Alice! 
-
-Hope you visit Paris soon!
 
 
 
